@@ -1,0 +1,10 @@
+a = input ("Digite a primeira nota:")
+aa = int(a)
+b = input ("Digite a segunda nota:")
+bb = int(b)
+c = input ("Digite a terceira nota:")
+cc = int(c)
+d = input ("Digite a quarta nota:")
+dd = int(d)
+
+print ("A média aritmética é",(aa + bb + cc + dd)/4)
